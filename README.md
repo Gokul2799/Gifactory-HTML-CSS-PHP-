@@ -12,11 +12,6 @@ Welcome to Gifactory, your go-to hub for endless GIF delights!
 
 Gifactory is a dynamic web platform crafted with HTML, CSS, and PHP. Explore a vibrant collection of animated wonders, dive into a world of laughter, emotions, and creativity.
 
-## Getting Started
-
-1. Clone the repository: `git clone https://github.com/your-username/gifactory.git`
-2. Open `index.html` in your browser.
-
 ## Features
 
 - Browse a diverse range of GIFs.
